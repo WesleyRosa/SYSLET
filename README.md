@@ -18,10 +18,23 @@ Gilsimar Almeida - DEVELOPMENT TEAM <br>
 
 ===============
 
-Prox. Aula. 28/03
-Trazer wire frame - prototipo de telas(prototipagem)
-Contar historias.
-contabilizar tempo.
+Prox. Aula. 28/03<br>
+Trazer wire frame - prototipo de telas(prototipagem)<br>
+Contar historias.<br>
+contabilizar tempo.<br>
 
 
-Estrutura a serem criadas.
+<b>Estrutura a serem criadas.</b><br>
+
+header.html (Cabeçalho) <br>
+footer.html (Rodapé) <br>
+index.html  (Tela inicial após login) <br>
+login.html (login) <br>
+cadastro_cli.html (cadastro de Cliente) <br>
+cadastro_equip.html (Cadastro de Equipamentos) <br>
+locação.html (lista de equipamentos pra locação comr espectivos preços e descrição) <br><br><br>
+
+<b>Estrutura.</b><br>
+img (diretorio para imagens) <br>
+css (diretorio para arquivos css) <br>
+/ (Raiz,arquivos html)
